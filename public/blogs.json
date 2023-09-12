@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "cover": "https://picsum.photos/200/300",
+      "title": "the adventures of tom sawyer",
+      "author": "mark twain",
+      "author-img": "https://picsum.photos/200",
+      "posted date": "2023-09-12",
+      "reading time": 10,
+      "hashtags": ["#adventure", "#fiction", "#classic"]
+    },
+    {
+      "id": 2,
+      "cover": "https://picsum.photos/200/300",
+      "title": "the catcher in the rye",
+      "author": "j.d. salinger",
+      "author-img": "https://picsum.photos/200",
+      "posted date": "2023-09-12",
+      "reading time": 8,
+      "hashtags": ["#coming of age", "#fiction", "#classic"]
+    },
+    {
+      "id": 3,
+      "cover": "https://picsum.photos/200/300",
+      "title": "the great gatsby",
+      "author": "f. scott fitzgerald",
+      "author-img": "https://picsum.photos/200",
+      "posted date": "2023-09-12",
+      "reading time": 12,
+      "hashtags": ["#romance", "#fiction", "#classic"]
+    },
+    {
+      "id": 4,
+      "cover": "https://picsum.photos/200/300",
+      "title": "to kill a mockingbird",
+      "author": "harper lee",
+      "author-img": "",
+      "posted date": "",
+      "reading time": "",
+      "hashtags": ["#coming of age", "#fiction", "#classic"]
+    },
+    {
+      "id": 5,
+      "cover": "",
+      "title": "",
+      "author": "",
+      "author-img": "",
+      "posted date": "",
+      "reading time": "",
+      "hashtags": []
+    }
+  ]
